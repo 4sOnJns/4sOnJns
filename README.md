@@ -1,1 +1,1 @@
-![YYP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YYP&show_icons=true&custom_title=YYP%27s%20Stats&title_color=FFFFFF&icon_color=4540e3&text_color=C0C0C0&bg_color=DEG,000000,101036)
+[![YYP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YYP&show_icons=true&custom_title=YYP%27s%20Stats&title_color=FFFFFF&icon_color=4540e3&text_color=C0C0C0&bg_color=DEG,000000,101036)](https://github.com/anuraghazra/github-readme-stats)
