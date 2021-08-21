@@ -10,5 +10,5 @@ Contact:
 
 - [Discord](https://discord.gg/4KWjQkrQtA)
 - [Discord 2](https://discord.gg/vstxuGbPVX)
-- [YpuTube](https://www.youtube.com/c/urMum)
+- [YouTube](https://www.youtube.com/c/urMum)
  ( deleting all these accounts soon )
