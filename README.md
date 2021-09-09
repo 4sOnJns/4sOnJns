@@ -1,14 +1,18 @@
 15 y/o
-non professional python, C# developer
-
-Owner and Developer of [Ventile Client](https://github.com/Ventile-Client)
 
 
-All my repositorys are under Copyright ( License )
+##Skills 
 
-Contact:
 
-- [Discord](https://discord.gg/4KWjQkrQtA)
-- [Discord 2](https://discord.gg/vstxuGbPVX)
-- [YouTube](https://www.youtube.com/c/urMum)
- ( deleting all these accounts soon )
+Main:
+
+HTML 80%
+JS 70%
+CSS 80%
+C# 65%
+
+Learning
+
+php 10%
+c++ 5%
+java 20%
