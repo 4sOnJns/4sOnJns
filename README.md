@@ -1,5 +1,5 @@
 ```zsh
-> neofetch
+> 4sOnJns
 ```
 
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
@@ -10,9 +10,10 @@ yyp@github
 
        OS  :  Linux PopOS! (PlasmaKDE)
        WM  :  yabai
-    Alias  :  4sOnJns
 Languages  :  C#, Python, Java
   Discord  :  𝔍𝔬𝔫𝔞𝔰#6761
+
+----------------
 ```
 
 <p align="left">
