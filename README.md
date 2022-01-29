@@ -9,7 +9,7 @@ yyp@github
 ----------------
 
        OS  :  Linux PopOS! (PlasmaKDE)
-       WM  :  yabai
+     Skill :  None
 Languages  :  C#, Python, Java
   Discord  :  𝔍𝔬𝔫𝔞𝔰#6761
 
