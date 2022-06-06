@@ -9,7 +9,7 @@ YYP-16@github
 ----------------
 
        OS  :  Pop!_OS 22.04 LTS x86_64
-       DE  : Plasma 5.24.4
+       DE  :  Plasma 5.24.4
     Shell  :  bash 5.1.16
  Terminal  :  konsole
       CPU  :  idfk
