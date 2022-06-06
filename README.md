@@ -1,5 +1,5 @@
 ```zsh
-> neofetch
+~$ neofetch
 ```
 
 <img align="left" src="https://github.com/YYP-16/YYP-16/blob/main/cannabis.png" alt="logo.png" width="200" /> 
