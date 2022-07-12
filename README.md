@@ -5,4 +5,6 @@
 </samp><br>
 </p>
 
+<p align"center">
 ![](https://komarev.com/ghpvc/?username=YYP-CMD&color=blue)
+</p>
