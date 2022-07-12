@@ -1,7 +1,7 @@
 <p align="right">
   <samp>
     YYP:
-    <b><a href="989246611018366986">Discord</a></b>
+    <b><a href="994592006095523880">Discord</a></b>
 </samp><br>
 </p>
 
