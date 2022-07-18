@@ -1,3 +1,17 @@
+```zsh
+> neofetch
+```
 
-![](https://komarev.com/ghpvc/?username=YYP-CMD&color=blue)
+<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
+```csharp
+YYP@github
+----------------
+
+       OS  :  Windows 10 + PopOS!
+       WM  :  yabai
+    Shell  :  cmd + zsh
+ Terminal  :  kitty
+    Alias  :  Scareships
+Languages  :  CS, Python, JS
+```
